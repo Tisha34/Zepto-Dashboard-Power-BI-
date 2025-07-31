@@ -68,4 +68,5 @@ Retention Strategy: Enables targeting of inactive customers based on churn trend
 Product Strategy: Helps prioritize inventory for top-performing SKUs by location
 
 **6. Screenshots****
+dashboard looks like: ![Alt text](https://github.com/Tisha34/Zepto-Dashboard-Power-BI-/blob/main/Snapshot%20of%20Dasboard.png)
 
